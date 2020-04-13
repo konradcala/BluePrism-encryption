@@ -1,4 +1,5 @@
 # BluePrism-encryption
+https://corpoprogrammer.pl/encryption-and-decryption-of-queue-items-in-blue-prism/
 
 ## Usage
 ### Build application
